@@ -1,0 +1,8 @@
+function a()
+{
+s=0;
+for (int i=o; i<10; i++)
+{
+S+=5;
+}
+}
