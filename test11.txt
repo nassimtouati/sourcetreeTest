@@ -6,3 +6,12 @@ for (int i=o; i<10; i++)
 S+=5;
 }
 }
+
+
+fuction b() {
+T=0;
+for (int j=0; j<100; j++) {
+T+=10;
+}
+}
+
